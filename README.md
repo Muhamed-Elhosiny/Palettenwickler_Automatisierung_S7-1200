@@ -155,7 +155,12 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 ### Sensoren
 
-![image](https://github.com/user-attachments/assets/58633aa8-780f-4aeb-aedd-7c6a84ab505f)
+  ![image](https://github.com/user-attachments/assets/97767b8d-3e57-4185-9696-6dcbdf0bb406)
+
+# PLC Algorithm Overview
+
+![image](https://github.com/user-attachments/assets/8acc3375-0865-4dd9-b4f5-42e3be40e793)
+
 
 ## Ablauf des Algorithmus:
 

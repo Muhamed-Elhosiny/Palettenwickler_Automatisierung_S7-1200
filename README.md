@@ -50,7 +50,7 @@ Der Palettenwickler ist darauf ausgelegt:
 
 ### Kabelverlängerungen vom Motor zu den Klemmblöcken des Schaltschranks
 - 6 Meter 1 x 1,5 mm²
-
+ 
    
 ## Systemdiagramm
   -	Verdrahtungspläne:

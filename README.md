@@ -43,10 +43,10 @@ Der Palettenwickler ist darauf ausgelegt:
 - **Entfernung:** 1 m
 - **Kabel:** 1 x 1,5 mm²
 
-### Gesamtleistungsaufnahme
+#### Gesamtleistungsaufnahme
 - 0,37 kW + 0,55 kW = 0,92 kW
 
-### Kabelverlängerungen vom Motor zu den Klemmblöcken des Schaltschranks
+#### Kabelverlängerungen vom Motor zu den Klemmblöcken des Schaltschranks
 - 6 Meter 1 x 1,5 mm²
  
    

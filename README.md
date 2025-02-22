@@ -15,10 +15,14 @@ Verwendete Komponenten:
 1.	SPS: Siemens S7-1200
 2.	Frequenzumrichter (VFD): 0,37 kW und 0,55 kW
 3.	Sensoren:
+   
     o	Oberer Endschalter (NO)
+  	
     o	Unterer Endschalter (NO)
+  	
     o	Näherungssensor zur Drehzahlzählung
-4.	Software: Codsys +TIA Portal mit Simulation in PLCSim
+  	
+5.	Software: Codsys +TIA Portal mit Simulation in PLCSim
 
 
 

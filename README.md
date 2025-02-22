@@ -11,28 +11,13 @@ Der Palettenwickler ist darauf ausgelegt:
   -	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
   -	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 
-
-
-# Verwendete Komponenten:
-1.	SPS: Siemens S7-1200
-2.	Frequenzumrichter (VFD): 0,37 kW und 0,55 kW
-3.	Sensoren:
-   
-    o	Oberer Endschalter (NO)
-  	
-    o	Unterer Endschalter (NO)
-  	
-    o	Näherungssensor zur Drehzahlzählung
-  	
-5.	Software: Codsys +TIA Portal mit Simulation in PLCSim
-
-### Verwendete Komponenten:
+#Verwendete Komponenten:
 1.	**SPS**: Siemens S7-1200
 2.	**Frequenzumrichter (VFD)**: 0,37 kW und 0,55 kW
 3.	**Sensoren**:
--	Oberer Endschalter (NO)
--	Unterer Endschalter (NO)
--	Näherungssensor zur Drehzahlzählung
+  -	Oberer Endschalter (NO)
+  -	Unterer Endschalter (NO)
+  -	Näherungssensor zur Drehzahlzählung
 4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
 
 

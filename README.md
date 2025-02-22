@@ -6,7 +6,7 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
 <img width="626" alt="Plalletenwicker" src="https://github.com/user-attachments/assets/49109f56-0441-4153-a001-f891463261f7" />
 
 
-## Projektübersicht
+## Projektübersicht 
 
 Der Palettenwickler ist darauf ausgelegt:
   -	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.

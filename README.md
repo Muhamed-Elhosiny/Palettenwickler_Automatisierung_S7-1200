@@ -2,8 +2,8 @@
 
 Dieses Projekt ist eine Automatisierungslösung für eine **Palettenwickelmaschine** unter Verwendung einer **Siemens S7-1200 SPS**. 
 Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Automatisierung des Wickelprozesses.
- ![image](https://github.com/user-attachments/assets/45edd85f-67c6-42a6-83f1-871d7e21bdbd)
 
+ ![image](https://github.com/user-attachments/assets/45edd85f-67c6-42a6-83f1-871d7e21bdbd)
 
 ## Projektübersicht
 

@@ -23,6 +23,12 @@ Der Palettenwickler ist darauf ausgelegt:
 ## Systemdiagramm
   -	Verdrahtungspläne:
 
+## Wie es funktioniert
+Der Wickelprozess ist vollständig automatisiert, mit:
+  -	**Auf/Ab-Motor**, gesteuert durch die SPS.
+  -	**Endschalter**, die den Motor stoppen, wenn der Wickelarm seine Grenzen erreicht.
+  -	**Näheresensoren**, um die Wickelgeschwindigkeit und die Drehzahl zu überwachen.
+
     
 
 

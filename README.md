@@ -48,6 +48,30 @@ Der Palettenwickler ist darauf ausgelegt:
 
 #### Kabelverlängerungen vom Motor zu den Klemmblöcken des Schaltschranks
 - 6 Meter 1 x 1,5 mm²
+
+# PLC-Auswahl:
+## Digitale Ausgänge:
+1.	Rotationsmotor
+2.	Auf/Ab-Motor
+3.	Auf/Ab-Motor
+4.	Reserve 2
+## Digitale Eingänge:
+1.	Oberer Grenzschalter
+2.	Unterer Grenzschalter
+3.	Stretch-Näherungssensor
+4.	Zähl-Näherungssensor
+5.	Motor 1 Überlast
+6.	Motor 2 Überlast
+7.	Not-Aus
+8.	Reserve 1
+## Analoge Ausgänge:
+  1.	VFD1 Frequenz
+  2.	VFD2 Frequenz
+# HMI-Auswahl:
+Sie können ein HMI-Bildschirm wählen (die SPS sollte Profinet oder Modbus unterstützen)
+Oder die Steuerung über einen Remote-PC (die SPS sollte einen Ethernet-Port haben)
+Wir werden uns für die Remote-PC-basierte Steuerung entscheiden
+
  
    
 ## Systemdiagramm

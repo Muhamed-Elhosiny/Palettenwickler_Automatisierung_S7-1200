@@ -139,15 +139,25 @@ Ein **1-Ampere-24-VDC-Industrienetzteil** (mit Kurzschlussschutz) ist mehr als a
 Da unser gesamter Stromverbrauch etwa **250mA** beträgt,  
 wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**).
 
+# Schematic Design
+
+### Überlastschutz
+
+   ![image](https://github.com/user-attachments/assets/fd148ef4-1e95-44df-a96b-4d85cdf3e311)
+
+### Motoren
+
+  ![image](https://github.com/user-attachments/assets/2af1b5b4-ab75-4734-b485-80b5f2e23c30)
 
 
+### Steurung
 
+  ![image](https://github.com/user-attachments/assets/4bdc621a-7201-4847-91b6-36f2fac67bc1)
 
+###Sensoren
 
-## Systemdiagramm
-  -	Verdrahtungspläne:
-    ![image](https://github.com/user-attachments/assets/c009bb51-13ee-4644-9caa-b8e45e068415)
-   	<img width="281" alt="Page_2" src="https://github.com/user-attachments/assets/d6744e43-82f6-4ec4-80b6-f75ab117e2d9" />
+  ![image](https://github.com/user-attachments/assets/ebae550c-7cd4-4fd9-931f-47372208eb0f)
+
 
 
 

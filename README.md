@@ -5,7 +5,7 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
 
 # Projektübersicht
 
-*Der Palettenwickler ist darauf ausgelegt:*
+Der Palettenwickler ist darauf ausgelegt:
   -	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
   -	Die Palette (Karton) während des Wickelvorgangs zu rotieren.
   -	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
@@ -25,6 +25,16 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
     o	Näherungssensor zur Drehzahlzählung
   	
 5.	Software: Codsys +TIA Portal mit Simulation in PLCSim
+
+### Verwendete Komponenten:
+1.	**SPS**: Siemens S7-1200
+2.	**Frequenzumrichter (VFD)**: 0,37 kW und 0,55 kW
+3.	**Sensoren**:
+-	Oberer Endschalter (NO)
+-	Unterer Endschalter (NO)
+-	Näherungssensor zur Drehzahlzählung
+4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
+
 
 
 

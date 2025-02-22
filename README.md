@@ -1,9 +1,9 @@
-# Palettenwickler_Automatisierung_S7-1200
+## Palettenwickler_Automatisierung_S7-1200
 
 Dieses Projekt ist eine Automatisierungslösung für eine **Palettenwickelmaschine** unter Verwendung einer **Siemens S7-1200 SPS**. 
 Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Automatisierung des Wickelprozesses.
 
-# Projektübersicht
+## Projektübersicht
 
 Der Palettenwickler ist darauf ausgelegt:
   -	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
@@ -11,7 +11,7 @@ Der Palettenwickler ist darauf ausgelegt:
   -	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
   -	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 
-# Verwendete Komponenten:
+## Verwendete Komponenten:
 1.	**SPS**: Siemens S7-1200
 2.	**Frequenzumrichter (VFD)**: 0,37 kW und 0,55 kW
 3.	**Sensoren**:

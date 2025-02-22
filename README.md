@@ -21,7 +21,9 @@ Der Palettenwickler ist darauf ausgelegt:
 4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
    
 ## Systemdiagramm
-    -	Verdrahtungspläne:
+  -	Verdrahtungspläne:
+
+    
 
 
 

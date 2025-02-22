@@ -55,6 +55,8 @@ Der Palettenwickler ist darauf ausgelegt:
 ## Systemdiagramm
   -	Verdrahtungspläne:
     ![image](https://github.com/user-attachments/assets/c009bb51-13ee-4644-9caa-b8e45e068415)
+   	<img width="281" alt="Page_2" src="https://github.com/user-attachments/assets/d6744e43-82f6-4ec4-80b6-f75ab117e2d9" />
+
 
 
 ## Wie es funktioniert

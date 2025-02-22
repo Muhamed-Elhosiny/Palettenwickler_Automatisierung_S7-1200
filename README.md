@@ -143,20 +143,19 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 ### Überlastschutz
 
-   ![image](https://github.com/user-attachments/assets/fd148ef4-1e95-44df-a96b-4d85cdf3e311)
+  ![image](https://github.com/user-attachments/assets/cf118714-8462-47d3-b83b-4f4e6c19b729)
 
 ### Motoren
 
-  ![image](https://github.com/user-attachments/assets/2af1b5b4-ab75-4734-b485-80b5f2e23c30)
-
+![image](https://github.com/user-attachments/assets/630956b6-08fb-49a6-8f54-0cc64a9a5396)
 
 ### Steurung
 
-  ![image](https://github.com/user-attachments/assets/4bdc621a-7201-4847-91b6-36f2fac67bc1)
+![image](https://github.com/user-attachments/assets/2ff77c07-58a5-427a-bb15-b017eb2aa785)
 
 ###Sensoren
 
- ![image](https://github.com/user-attachments/assets/5d5dd720-fda7-40a3-81be-469f4a196eb9)
+![image](https://github.com/user-attachments/assets/e97061fa-7794-4c59-b510-ae1cd9ef8be5)
 
 
 

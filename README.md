@@ -5,25 +5,11 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
 
 # Projektübersicht
 
-•	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
-
-•	Die Palette (Karton) während des Wickelvorgangs zu rotieren.
-
-•	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
-
-•	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
-
-The Box Wrapper is designed to:
-- Move the wrapping film up and down using a motor.
-- Rotate the box during wrapping.
-- Stop at the appropriate top and bottom limits using limit switches.
-- Control the speed and motor actions via a Variable Frequency Drive (VFD).
-
-  Der Palettenwickler ist darauf ausgelegt:
--	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
--	Die Palette (Karton) während des Wickelvorgangs zu rotieren.
--	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
--	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
+*Der Palettenwickler ist darauf ausgelegt:*
+  -	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
+  -	Die Palette (Karton) während des Wickelvorgangs zu rotieren.
+  -	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
+  -	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 
 
 

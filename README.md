@@ -158,8 +158,27 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 ![image](https://github.com/user-attachments/assets/e97061fa-7794-4c59-b510-ae1cd9ef8be5)
 
 
+# PLC Algorithm Overview
 
+![image](https://github.com/user-attachments/assets/58633aa8-780f-4aeb-aedd-7c6a84ab505f)
 
+## Ablauf des Algorithmus:
+
+1. **Start**  
+2. **RotationM = 1**  
+   - Prüft, ob `UpCount = 3`
+   - Falls **Nein** → `UpCount++`
+   - Falls **Ja** → `MotorUp = 1`
+3. **MotorUp = 1**  
+   - Prüft, ob `HiSW = 1`
+   - Falls **Ja** → `MotorUp = 3`
+4. **MotorUp = 3**  
+   - Prüft, ob `DownCount = 0`
+   - Falls **Ja** → `MotorDown = 1`
+5. **MotorDown = 1**  
+   - Prüft, ob `LowSW = 1`
+   - Falls **Ja** → `MotorDown = 0`, `RotationM = 0`
+6. **Ende**
 
 ## Wie es funktioniert
 Der Wickelprozess ist vollständig automatisiert, mit:

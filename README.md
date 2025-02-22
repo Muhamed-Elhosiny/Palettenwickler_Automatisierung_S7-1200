@@ -81,6 +81,28 @@ Die SPS steuert das System mit Ladder-Logik und den folgenden Hauptfunktionen:
 4. Laden Sie das SPS-Programm (im Ordner `/code`).
 5. Überwachen und steuern Sie das System über HMI (optional).
 
+
+   ## MCBs:
+
+1. **24VDC-Stromversorgung**: MCB von **1A** - **1-poliger MCB**  
+   _Schalten_
+
+2. **PLC**: **1A Steuerstromkreis** - MCB **1A** - **1-poliger MCB**  
+   _Schalten_
+
+3. **VFD 0,55 kW**: **0,55 kW** / (380 × 1,73 × 0,7) = **1,2A**  
+   **2A 3-poliger MCB** - **Typ C (5–10-fach)**  
+   _Schalten_
+
+4. **VFD 0,37 kW**: **0,37 kW** / (380 × 1,73 × 0,7) = **0,8A**  
+   **1A 3-poliger MCB** - **Typ C (5–10-fach)**  
+   _Schalten_
+
+---
+**Da diese MCBs nur zum Schalten verwendet werden,**  
+**ist jede MCB-Bewertung höher als die maximale Gerätebewertung ausreichend.**
+
+
 ### Zukünftige Verbesserungen
 - Hinzufügen eines HMI für manuelle Steuerung und Überwachung.
 - Verbesserung der Steuerung der Wickelmaterialspannung.

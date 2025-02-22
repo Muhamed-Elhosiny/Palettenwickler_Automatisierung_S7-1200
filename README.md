@@ -118,32 +118,31 @@ Ein **1-Ampere-24-VDC-Industrienetzteil** (mit Kurzschlussschutz) ist mehr als a
 
    Daher sollte unser Haupt-MCB bei **25A Typ C** liegen _(zur Berücksichtigung von Einschaltströmen)_.
 
-## Hauptleistungsschalter
+## MCBs:
 
-### Gesamtstrom = 1,1 kW / (380 × 0,7 × 1,73) = **2,4A**
+1. **24VDC-Stromversorgung**: MCB von **1A** - **1-poliger MCB**  
+   _Schalten_
+2. **PLC**: **1A Steuerstromkreis** - MCB **1A** - **1-poliger MCB**  
+   _Schalten_
+3. **VFD 0,55 kW**: **0,55 kW** / (380 × 1,73 × 0,7) = **1,2A**  
+   **2A 3-poliger MCB** - **Typ C (5–10-fach)**  
+   _Schalten_
+4. **VFD 0,37 kW**: **0,37 kW** / (380 × 1,73 × 0,7) = **0,8A**  
+   **1A 3-poliger MCB** - **Typ C (5–10-fach)**  
+   _Schalten_
 
-**Hinweis:** Ein Hauptleistungsschalter dient hauptsächlich zum Schutz des Eingangsstromkabels.
+---
 
-### Auswahl des Hauptleistungsschalters:
-1. **Überprüfen Sie die benötigte Kabellänge** zwischen der Hauptstromquelle (Transformator, Stromverteilungstafel) und Ihrem Hauptleistungsschalter.  
-   _Angenommen, unser Fall beträgt **10m**._
+**Da diese MCBs nur zum Schalten verwendet werden,**  
+**ist jede MCB-Bewertung höher als die maximale Gerätebewertung ausreichend.**
+## Sicherungen:
+Da unser gesamter Stromverbrauch etwa **250mA** beträgt,  
+wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**).
 
-2. **Gesamten Stromverbrauch des Schaltschrankes berechnen:**  
-   _Unser Fall: **2,4 × 10** (unter Berücksichtigung von Einschaltströmen) = **24A**_
 
-3. **Für den Hauptleistungsschalter sollte mindestens ein 1,5mm²-Kabel verwendet werden**, insbesondere für Schaltschränke mit Motorlasten.  
-   Aber reicht das hier aus? Ist der Spannungsabfall **weniger als 3%**?
 
-4. **Spannungsabfall berechnen:**  
-   **Spannungsabfall (%) = (1,73 × Strom × Kabelimpedanz pro Meter × Kabellänge × 100) / Spannungsquelle**  
 
-   _Unser Fall:_  
-   **(1,73 × 24 × 0,0138 × 10 × 100) / 380 = 1,5%** _(weniger als 3%, akzeptabel!)_
 
-5. **Maximalstrom für 1,5mm²-Kabel gemäß Tabelle:**  
-   _Es beträgt **25A**._
-
-   Daher sollte unser Haupt-MCB bei **25A Typ C** liegen _(zur Berücksichtigung von Einschaltströmen)_.
 
 ## Systemdiagramm
   -	Verdrahtungspläne:

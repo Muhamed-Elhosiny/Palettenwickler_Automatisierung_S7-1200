@@ -15,9 +15,9 @@ Der Palettenwickler ist darauf ausgelegt:
 1.	**SPS**: Siemens S7-1200
 2.	**Frequenzumrichter (VFD)**: 0,37 kW und 0,55 kW
 3.	**Sensoren**:
-  -	Oberer Endschalter (NO)
-  -	Unterer Endschalter (NO)
-  -	Näherungssensor zur Drehzahlzählung
+    -	Oberer Endschalter (NO)
+    -	Unterer Endschalter (NO)
+    -	Näherungssensor zur Drehzahlzählung
 4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
 
 

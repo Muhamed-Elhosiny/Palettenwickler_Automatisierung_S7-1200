@@ -183,7 +183,6 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 # Kontaktplan
 
-![image](https://github.com/user-attachments/assets/ee1bf601-3c2e-4ca0-b2d4-d9a684c1c519)
 
 
 ![image](https://github.com/user-attachments/assets/55f2ef60-708d-4831-8c9c-3304cc9c12f3)

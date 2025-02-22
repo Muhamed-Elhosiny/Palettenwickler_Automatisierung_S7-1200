@@ -4,15 +4,10 @@ Dieses Projekt ist eine Automatisierungslösung für eine Palettenwickelmaschine
 
 # Projektübersicht
 
-Der Palettenwickler ist darauf ausgelegt:
+•	Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
+•	Die Palette (Karton) während des Wickelvorgangs zu rotieren.
+•	An den entsprechenden oberen und unteren Endschaltern zu stoppen.
 
-Die Wickelfolie mithilfe eines Motors auf- und abwärts zu bewegen.
-
-Die Palette (Karton) während des Wickelvorgangs zu rotieren.
-
-An den entsprechenden oberen und unteren Endschaltern zu stoppen.
-
-Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 
 •	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 

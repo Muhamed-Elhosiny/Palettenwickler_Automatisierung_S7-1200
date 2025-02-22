@@ -72,22 +72,25 @@ Sie können ein HMI-Bildschirm wählen (die SPS sollte Profinet oder Modbus unte
 Oder die Steuerung über einen Remote-PC (die SPS sollte einen Ethernet-Port haben)
 Wir werden uns für die Remote-PC-basierte Steuerung entscheiden
 
-## DC-Stromverbrauch und Stromversorgung
-**Digitale Ausgänge**: 12 mA x 4 = 48 mA
-**Digitale Eingänge**: 12 mA x 9 = 108 mA
-**Analoge Ausgänge**: 12 mA x 2 = 24 mA
-**Relais**:
-•	PLC intern: 20 mA
-•	VFD intern: 5 mA x 2 = 10 mA
-**Gesamt**: 246 mA
-Ein 1-Ampere-Netzteil wäre mehr als ausreichend.
-Ein 1-Ampere-24-VDC-Industrienetzteil (mit Kurzschlussschutz) ist mehr als ausreichend.
-## Auswahl der Leistungsschalter 
-**Hauptleistungsschalter**
-Gesamtleistungsaufnahme der Motoren = 0,92 kW = 920 W
-PLC-E/A + PLC-interne Leistung + Relais beträgt kaum 5 W (zu gering)
-**Gesamtleistung** = 920 W + 5 W + 20 % = 1,1 kW
-**Gesamtstrom** = 1,1 kW / (380 V x 0,7 x 1,73) = 2,4 A
+ ## DC-Stromverbrauch und Stromversorgung
+**Digitale Ausgänge:** 12 mA x 4 = 48 mA  
+**Digitale Eingänge:** 12 mA x 9 = 108 mA  
+**Analoge Ausgänge:** 12 mA x 2 = 24 mA  
+**Relais:**  
+• **PLC intern:** 20 mA  
+• **VFD intern:** 5 mA x 2 = 10 mA  
+**Gesamt:** 246 mA  
+
+Ein **1-Ampere-Netzteil** wäre mehr als ausreichend.  
+Ein **1-Ampere-24-VDC-Industrienetzteil** (mit Kurzschlussschutz) ist mehr als ausreichend.  
+
+## Auswahl der Leistungsschalter
+### Hauptleistungsschalter
+**Gesamtleistungsaufnahme der Motoren** = 0,92 kW = 920 W  
+**PLC-E/A + PLC-interne Leistung + Relais** beträgt kaum 5 W (zu gering)  
+**Gesamtleistung** = 920 W + 5 W + 20 % = **1,1 kW**  
+**Gesamtstrom** = 1,1 kW / (380 V × 0,7 × 1,73) = **2,4 A**
+
 
    
 ## Systemdiagramm

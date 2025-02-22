@@ -156,7 +156,8 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 ###Sensoren
 
-  ![image](https://github.com/user-attachments/assets/ebae550c-7cd4-4fd9-931f-47372208eb0f)
+ ![image](https://github.com/user-attachments/assets/5d5dd720-fda7-40a3-81be-469f4a196eb9)
+
 
 
 

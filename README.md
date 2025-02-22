@@ -30,37 +30,34 @@ Der Wickelprozess ist vollständig automatisiert, mit:
   -	**Endschalter**, die den Motor stoppen, wenn der Wickelarm seine Grenzen erreicht.
   -	**Näheresensoren**, um die Wickelgeschwindigkeit und die Drehzahl zu überwachen.
 
- ### Logic Implementation
-The PLC controls the system using ladder logic with the following key functions:
-- **Motor Control**: The VFD drives the motors, which are started and stopped by PLC inputs from the sensors.
-- **Safety Interlocks**: Limit switches prevent over-extension of the wrapping arm.
+### Logikimplementierung
+Die SPS steuert das System mit Ladder-Logik und den folgenden Hauptfunktionen:
+- **Motorkontrolle**: Der VFD steuert die Motoren, die durch SPS-Eingaben von den Sensoren gestartet und gestoppt werden.
+- **Sicherheitsverriegelungen**: Endschalter verhindern eine Überdehnung des Wickelarms.
 
-### Simulation and Testing
-- The project was first simulated in TIA Portal using PLCSim to ensure proper motor control and sensor integration.
-- (Include screenshots or code snippets of your PLC simulation setup)
+### Simulation und Test
+- Das Projekt wurde zunächst im TIA Portal mit PLCSim simuliert, um eine ordnungsgemäße Motorsteuerung und Sensorkompatibilität sicherzustellen.
+- (Fügen Sie Screenshots oder Code-Snippets Ihrer PLC-Simulationskonfiguration hinzu)
 
-### Installation and Deployment
-1. Install the Siemens S7-1200 PLC.
-2. Connect the VFD to control the motors.
-3. Wire the limit switches and sensors to the PLC.
-4. Download the PLC program (located in the `/code` folder).
-5. Monitor and control the system via HMI (optional).
+### Installation und Bereitstellung
+1. Installieren Sie die Siemens S7-1200 SPS.
+2. Verbinden Sie den VFD zur Steuerung der Motoren.
+3. Verdrahten Sie die Endschalter und Sensoren an die SPS.
+4. Laden Sie das SPS-Programm (im Ordner `/code`).
+5. Überwachen und steuern Sie das System über HMI (optional).
 
-### Future Improvements
-- Adding an HMI for manual control and monitoring.
-- Improving the wrapping material tension control.
+### Zukünftige Verbesserungen
+- Hinzufügen eines HMI für manuelle Steuerung und Überwachung.
+- Verbesserung der Steuerung der Wickelmaterialspannung.
 
-## Folder Structure
-- `/code`: Contains the PLC programming files (Ladder Logic in TIA Portal format).
-- `/docs`: Contains all the documentation and diagrams.
-- `/simulations`: Files used for simulation testing in PLCSim.
+## Ordnerstruktur
+- `/code`: Enthält die SPS-Programmierdateien (Ladder-Logik im TIA Portal-Format).
+- `/docs`: Enthält alle Dokumentationen und Diagramme.
+- `/simulations`: Dateien, die für die Simulationstests in PLCSim verwendet werden.
 
-## Contact
-If you have any questions about this project, feel free to contact me at 
+## Kontakt
+Wenn Sie Fragen zu diesem Projekt haben, können Sie mich gerne unter
 
-[Muhamad.Elhosiny@example.com]
-   
-
-
+[Muhamad.Elhosiny@example.com] kontaktieren.
 
 

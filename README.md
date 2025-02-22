@@ -24,7 +24,9 @@ Der Palettenwickler ist darauf ausgelegt:
 4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
    
 ## Systemdiagramm
-  -	Verdrahtungspläne: xx
+  -	Verdrahtungspläne:
+    ![image](https://github.com/user-attachments/assets/c009bb51-13ee-4644-9caa-b8e45e068415)
+
 
 ## Wie es funktioniert
 Der Wickelprozess ist vollständig automatisiert, mit:

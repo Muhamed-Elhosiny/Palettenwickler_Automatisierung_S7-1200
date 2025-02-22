@@ -5,6 +5,7 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
 
  ![image](https://github.com/user-attachments/assets/45edd85f-67c6-42a6-83f1-871d7e21bdbd)
 
+
 ## Projektübersicht
 
 Der Palettenwickler ist darauf ausgelegt:

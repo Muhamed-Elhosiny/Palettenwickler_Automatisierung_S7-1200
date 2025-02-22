@@ -13,6 +13,13 @@ Es umfasst die SPS-Programmierung, Motorsteuerung und Sensorintegration zur Auto
 
 •	Die Geschwindigkeit und Motorbewegungen über einen Frequenzumrichter (VFD) zu steuern.
 
+The Box Wrapper is designed to:
+- Move the wrapping film up and down using a motor.
+- Rotate the box during wrapping.
+- Stop at the appropriate top and bottom limits using limit switches.
+- Control the speed and motor actions via a Variable Frequency Drive (VFD).
+
+
 # Verwendete Komponenten:
 1.	SPS: Siemens S7-1200
 2.	Frequenzumrichter (VFD): 0,37 kW und 0,55 kW

@@ -159,8 +159,8 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 # PLC Algorithm Overview
 
-![image](https://github.com/user-attachments/assets/8acc3375-0865-4dd9-b4f5-42e3be40e793)
 
+  ![image](https://github.com/user-attachments/assets/f0c16e13-4fd7-4466-b4c2-647bd4161859)
 
 ## Ablauf des Algorithmus:
 

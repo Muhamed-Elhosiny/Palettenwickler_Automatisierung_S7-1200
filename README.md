@@ -19,6 +19,9 @@ Der Palettenwickler ist darauf ausgelegt:
     -	Unterer Endschalter (NO)
     -	Näherungssensor zur Drehzahlzählung
 4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
+   
+##Systemdiagramm
+  -	Verdrahtungspläne:
 
 
 

@@ -23,7 +23,34 @@ Der Palettenwickler ist darauf ausgelegt:
     -	Oberer Endschalter (NO)
     -	Unterer Endschalter (NO)
     -	Näherungssensor zur Drehzahlzählung
-4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim 
+4.	**Software**: Codsys +TIA Portal mit Simulation in PLCSim
+
+## Motorenbewertungen, Schutz und Verkabelung
+
+### Auf/Ab-Motor
+- **Leistung:** 0,37 kW
+- **Spannung:** 380 V AC, 3-Phasen
+- **Geschwindigkeitsregelung:** Erforderlich (Frequenzumrichter 0,37 kW)
+- **Strom:** (I = W / (V x 0,7 x 1,73)) = 0,8 A
+- **Überlastschutz:** Nicht erforderlich
+- **Entfernung:** 1 m
+- **Kabel:** 1 x 1,5 mm²
+
+### Rotationsmotor
+- **Leistung:** 0,55 kW
+- **Spannung:** 380 V AC, 3-Phasen
+- **Geschwindigkeitsregelung:** Erforderlich (Frequenzumrichter 0,55 kW)
+- **Strom:** (I = W / (V x 0,7 x 1,73)) = 1,2 A
+- **Überlastschutz:** Nicht erforderlich
+- **Entfernung:** 1 m
+- **Kabel:** 1 x 1,5 mm²
+
+### Gesamtleistungsaufnahme
+- 0,37 kW + 0,55 kW = 0,92 kW
+
+### Kabelverlängerungen vom Motor zu den Klemmblöcken des Schaltschranks
+- 6 Meter 1 x 1,5 mm²
+
    
 ## Systemdiagramm
   -	Verdrahtungspläne:

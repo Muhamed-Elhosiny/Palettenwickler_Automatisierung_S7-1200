@@ -155,11 +155,6 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 
 ### Sensoren
 
-![image](https://github.com/user-attachments/assets/e97061fa-7794-4c59-b510-ae1cd9ef8be5)
-
-
-# PLC Algorithm Overview
-
 ![image](https://github.com/user-attachments/assets/58633aa8-780f-4aeb-aedd-7c6a84ab505f)
 
 ## Ablauf des Algorithmus:
@@ -179,6 +174,16 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
    - Prüft, ob `LowSW = 1`
    - Falls **Ja** → `MotorDown = 0`, `RotationM = 0`
 6. **Ende**
+
+
+
+
+
+
+
+
+
+
 
 ## Wie es funktioniert
 Der Wickelprozess ist vollständig automatisiert, mit:

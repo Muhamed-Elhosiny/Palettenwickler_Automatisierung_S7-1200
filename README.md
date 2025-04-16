@@ -235,7 +235,6 @@ Die SPS steuert das System mit Ladder-Logik und den folgenden Hauptfunktionen:
 
 ## Kontakt
 Wenn Sie Fragen zu diesem Projekt haben, können Sie mich gerne unter
-
-[Muhamad.Elhosiny@example.com] kontaktieren.
+[Muhamad.Elhosiny@gmail.com] kontaktieren.
 
 

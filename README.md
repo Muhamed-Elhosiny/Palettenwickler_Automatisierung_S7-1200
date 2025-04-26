@@ -214,7 +214,6 @@ Die SPS steuert das System mit Ladder-Logik und den folgenden Hauptfunktionen:
 
 ### Simulation und Test
 - Das Projekt wurde zunächst im TIA Portal mit PLCSim simuliert, um eine ordnungsgemäße Motorsteuerung und Sensorkompatibilität sicherzustellen.
-- (Fügen Sie Screenshots oder Code-Snippets Ihrer PLC-Simulationskonfiguration hinzu)
 
 ### Installation und Bereitstellung
 1. Installieren Sie die Siemens S7-1200 SPS.

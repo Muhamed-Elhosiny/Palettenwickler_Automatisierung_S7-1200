@@ -191,16 +191,6 @@ wäre eine **500mA**-Sicherung geeignet (**nächsthöherer Sicherungsstandard**)
 ![image](https://github.com/user-attachments/assets/dbdc22ea-719f-4c40-91e5-bbae991426dd)
 
 
-
-
-
-
-
-
-
-
-
-
 ## Wie es funktioniert
 Der Wickelprozess ist vollständig automatisiert, mit:
   -	**Auf/Ab-Motor**, gesteuert durch die SPS.
